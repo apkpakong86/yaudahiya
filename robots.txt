@@ -7,4 +7,4 @@ Disallow:
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: http://ftp.arinvestmentpartners.com/sitemap.xml
+Sitemap: http://ftp.gotbim.com/sitemap.xml
